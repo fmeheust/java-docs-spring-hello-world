@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'fmjavawebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9CC23FABCE2D483B93A746B1F0CC2972 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D01E93D3B74A48F88B1D26FB7799A257 }}
           package: '*.war'
